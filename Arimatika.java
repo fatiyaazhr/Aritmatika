@@ -6,7 +6,7 @@ public class Arimatika {
         double kali,bagi,tambah,kurang;
         // memberikan nilai pada variabel      
         a=10;
-        b=20; 
+        b=30; 
         //menentukan rumus
         tambah=a+a;
         kurang=b-a;
@@ -17,5 +17,6 @@ public class Arimatika {
         System.out.println("bagi: "+bagi);
         System.out.println("tambah: "+tambah);
         System.out.println("kurang: "+kurang);
+	System.out.println("hi");
     }   
 }
